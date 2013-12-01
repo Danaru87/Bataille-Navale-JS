@@ -1,0 +1,9 @@
+body{
+    background-image: url(img/bg.jpg);
+    text-align: center;
+}
+
+td{
+    width: 30px;
+    height: 30px;
+}
